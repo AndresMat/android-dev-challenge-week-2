@@ -1,21 +1,19 @@
 # Put title of your app here
 
-<!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
-<!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/AndresMat/android-dev-challenge-week-2/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+This is a sample Pomodoro timer App. A single screen countdown timer.
+
+The UI layer is fully built with Jetpack Compose.
 
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
-
+The [first-week](https://github.com/AndresMat/android-dev-challenge-week-1) challenge was exciting and let us know how powerful Compose is. 
+For this second week, we have the opportunity to deeply explore concepts like [state](https://developer.android.com/jetpack/compose/state) and [animation](https://developer.android.com/jetpack/compose/animation).
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 
 ## License
