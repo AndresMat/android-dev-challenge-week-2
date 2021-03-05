@@ -4,7 +4,7 @@
 
 
 ## :scroll: Description
-This is a sample Pomodoro timer App. A single screen countdown timer.
+This is a sample Pomodoro timer App; because staying focused at work isn't easy! 
 
 The UI layer is fully built with Jetpack Compose.
 
