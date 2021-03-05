@@ -13,15 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.androiddevchallenge.ui.theme
+package com.example.androiddevchallenge.util
 
-import androidx.compose.ui.graphics.Color
+import java.util.concurrent.TimeUnit
 
-val purple200 = Color(0xFFBB86FC)
-val purple500 = Color(0xFF6200EE)
-val purple700 = Color(0xFF3700B3)
-val teal200 = Color(0xFF03DAC5)
-
-val red = Color(242, 92, 94)
-val redVariant = Color(244, 166, 167)
-
+fun Long.formatTime(): String = String.format(
+    Constants.TIMER_FORMAT,
+    TimeUnit.MILLISECONDS.toMinutes(this),
+    TimeUnit.MILLISECONDS.toSeconds(this) % 60
+)
