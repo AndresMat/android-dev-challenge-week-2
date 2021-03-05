@@ -20,8 +20,8 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material.Text
 import androidx.compose.material.MaterialTheme
+import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.livedata.observeAsState
@@ -31,10 +31,10 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
-import com.example.androiddevchallenge.R
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.androiddevchallenge.MainViewModel
+import com.example.androiddevchallenge.R
 import com.example.androiddevchallenge.ui.components.CountDownButton
 import com.example.androiddevchallenge.ui.components.CountDownIndicator
 import com.example.androiddevchallenge.util.Constants
@@ -91,4 +91,3 @@ fun CountDownView(
         }
     }
 }
-

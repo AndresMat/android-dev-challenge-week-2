@@ -57,6 +57,5 @@ fun CountDownButton(
                 .fillMaxSize()
                 .clickable { optionSelected() }
         )
-
     }
 }

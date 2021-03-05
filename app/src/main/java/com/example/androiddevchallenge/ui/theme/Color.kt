@@ -24,4 +24,3 @@ val teal200 = Color(0xFF03DAC5)
 
 val red = Color(242, 92, 94)
 val redVariant = Color(244, 166, 167)
-
