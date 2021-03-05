@@ -14,7 +14,7 @@ The [first-week](https://github.com/AndresMat/android-dev-challenge-week-1) chal
 For this second week, we have the opportunity to deeply explore concepts like [state](https://developer.android.com/jetpack/compose/state) and [animation](https://developer.android.com/jetpack/compose/animation).
 
 ## :camera_flash: Screenshots
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_1.jpg" width="260">&emsp;<img src="/results/screenshot_2.jpg" width="260">
 
 ## License
 ```
